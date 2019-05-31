@@ -1,0 +1,858 @@
+[08:29:24][TRACE] [Main                            ] Logger successfully setup
+[08:29:24][TRACE] [Main                            ] Setting up Config...
+[08:29:24][FATAL] [Main                            ] Invalid config.json!
+[08:29:24][INFO ] [Main                            ] Please delete/move/rename file to regenerate a template
+[08:29:45][TRACE] [Main                            ] Logger successfully setup
+[08:29:45][TRACE] [Main                            ] Setting up Config...
+[08:29:45][TRACE] [Main                            ] Successfully setup the Config
+[08:29:45][TRACE] [Main                            ] Setting up HasteBin...
+[08:29:45][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:29:45][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:29:45][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:29:45][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:29:45][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:29:45][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:29:45][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:29:45][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:29:45][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:29:45][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:29:45][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:29:45][INFO ] [Main                            ] Up and running
+[08:29:45][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:30:47][TRACE] [Main                            ] Logger successfully setup
+[08:30:47][TRACE] [Main                            ] Setting up Config...
+[08:30:47][FATAL] [Main                            ] Invalid config.json!
+[08:30:47][INFO ] [Main                            ] Please delete/move/rename file to regenerate a template
+[08:30:57][TRACE] [Main                            ] Logger successfully setup
+[08:30:57][TRACE] [Main                            ] Setting up Config...
+[08:30:57][TRACE] [Main                            ] Successfully setup the Config
+[08:30:57][TRACE] [Main                            ] Setting up HasteBin...
+[08:30:57][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:30:57][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:30:57][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:30:57][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:30:57][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:30:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:30:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:30:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:30:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:30:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:30:57][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:30:58][INFO ] [Main                            ] Up and running
+[08:30:58][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:40:11][TRACE] [Main                            ] Logger successfully setup
+[08:40:11][TRACE] [Main                            ] Setting up Config...
+[08:40:11][TRACE] [Main                            ] Successfully setup the Config
+[08:40:11][TRACE] [Main                            ] Setting up HasteBin...
+[08:40:11][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:40:11][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:40:11][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:40:11][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:40:11][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:40:11][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:40:11][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:40:11][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:40:11][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:40:11][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:40:11][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:40:12][INFO ] [Main                            ] Up and running
+[08:40:12][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:41:31][TRACE] [Main                            ] Logger successfully setup
+[08:41:31][TRACE] [Main                            ] Setting up Config...
+[08:41:31][TRACE] [Main                            ] Successfully setup the Config
+[08:41:31][TRACE] [Main                            ] Setting up HasteBin...
+[08:41:31][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:41:31][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:41:31][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:41:31][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:41:31][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:41:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:41:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:41:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:41:31][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:41:31][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:41:31][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:41:32][INFO ] [Main                            ] Up and running
+[08:41:32][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:41:47][TRACE] [Main                            ] Logger successfully setup
+[08:41:47][TRACE] [Main                            ] Setting up Config...
+[08:41:47][TRACE] [Main                            ] Successfully setup the Config
+[08:41:47][TRACE] [Main                            ] Setting up HasteBin...
+[08:41:47][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:41:47][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:41:47][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:41:47][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:41:47][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:41:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:41:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:41:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:41:47][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:41:47][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:41:47][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:41:47][INFO ] [Main                            ] Up and running
+[08:41:47][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:42:04][TRACE] [Main                            ] Logger successfully setup
+[08:42:04][TRACE] [Main                            ] Setting up Config...
+[08:42:04][TRACE] [Main                            ] Successfully setup the Config
+[08:42:04][TRACE] [Main                            ] Setting up HasteBin...
+[08:42:04][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:42:04][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:42:04][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:42:04][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:42:04][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:42:04][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:42:04][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:42:04][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:42:04][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:42:04][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:42:04][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:42:04][INFO ] [Main                            ] Up and running
+[08:42:04][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:43:37][TRACE] [Main                            ] Logger successfully setup
+[08:43:37][TRACE] [Main                            ] Setting up Config...
+[08:43:37][TRACE] [Main                            ] Successfully setup the Config
+[08:43:37][TRACE] [Main                            ] Setting up HasteBin...
+[08:43:37][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:43:37][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:43:37][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:43:37][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:43:37][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:43:37][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:43:37][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:43:37][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:43:37][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:43:37][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:43:37][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:43:38][INFO ] [Main                            ] Up and running
+[08:43:38][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:46:38][TRACE] [Main                            ] Logger successfully setup
+[08:46:38][TRACE] [Main                            ] Setting up Config...
+[08:46:38][TRACE] [Main                            ] Successfully setup the Config
+[08:46:38][TRACE] [Main                            ] Setting up HasteBin...
+[08:46:38][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:46:38][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:46:38][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:46:38][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:46:38][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:46:38][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:46:38][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:46:38][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:46:38][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:46:38][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:46:38][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:46:39][INFO ] [Main                            ] Up and running
+[08:46:39][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:46:55][TRACE] [Main                            ] Logger successfully setup
+[08:46:55][TRACE] [Main                            ] Setting up Config...
+[08:46:55][TRACE] [Main                            ] Successfully setup the Config
+[08:46:55][TRACE] [Main                            ] Setting up HasteBin...
+[08:46:55][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:46:55][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:46:55][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:46:55][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:46:55][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:46:55][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:46:55][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:46:55][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:46:55][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:46:55][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:46:55][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:46:55][INFO ] [Main                            ] Up and running
+[08:46:55][INFO ] [Main                            ] Logged in as CyBot#9146
+[08:48:02][TRACE] [Main                            ] Logger successfully setup
+[08:48:02][TRACE] [Main                            ] Setting up Config...
+[08:48:02][TRACE] [Main                            ] Successfully setup the Config
+[08:48:02][TRACE] [Main                            ] Setting up HasteBin...
+[08:48:02][TRACE] [Main                            ] Successfully setup the HasteBin
+[08:48:02][TRACE] [EventHandler                    ] Setting up EventHandler...
+[08:48:02][DEBUG] [EventHandler                    ] Event loaded: ready
+[08:48:02][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[08:48:02][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[08:48:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[08:48:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[08:48:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[08:48:02][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[08:48:02][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[08:48:02][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[08:48:02][INFO ] [Main                            ] Up and running
+[08:48:02][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:12:01][INFO ] [Main                            ] Up and running
+[10:12:01][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:28:00][TRACE] [Main                            ] Logger successfully setup
+[10:28:00][TRACE] [Main                            ] Setting up Config...
+[10:28:00][TRACE] [Main                            ] Successfully setup the Config
+[10:28:00][TRACE] [Main                            ] Setting up HasteBin...
+[10:28:00][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:28:00][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:28:00][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:28:00][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:28:00][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:28:00][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:28:00][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:28:00][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:28:00][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:28:00][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:28:00][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:28:00][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:28:01][INFO ] [Main                            ] Up and running
+[10:28:01][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:30:40][TRACE] [Main                            ] Logger successfully setup
+[10:30:40][TRACE] [Main                            ] Setting up Config...
+[10:30:40][TRACE] [Main                            ] Successfully setup the Config
+[10:30:40][TRACE] [Main                            ] Setting up HasteBin...
+[10:30:40][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:30:40][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:30:40][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:30:40][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:30:40][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:30:40][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:30:40][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:30:41][INFO ] [Main                            ] Up and running
+[10:30:41][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:31:31][TRACE] [Main                            ] Logger successfully setup
+[10:31:31][TRACE] [Main                            ] Setting up Config...
+[10:31:31][TRACE] [Main                            ] Successfully setup the Config
+[10:31:31][TRACE] [Main                            ] Setting up HasteBin...
+[10:31:31][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:31:31][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:31:31][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:31:31][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:31:31][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:31:31][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:31:31][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:31:32][INFO ] [Main                            ] Up and running
+[10:31:32][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:48:29][TRACE] [Main                            ] Logger successfully setup
+[10:48:29][TRACE] [Main                            ] Setting up Config...
+[10:48:29][TRACE] [Main                            ] Successfully setup the Config
+[10:48:29][TRACE] [Main                            ] Setting up HasteBin...
+[10:48:29][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:48:29][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:48:29][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:48:29][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:48:29][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:48:29][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:48:29][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:48:30][INFO ] [Main                            ] Up and running
+[10:48:30][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:49:18][TRACE] [Main                            ] Logger successfully setup
+[10:49:18][TRACE] [Main                            ] Setting up Config...
+[10:49:18][TRACE] [Main                            ] Successfully setup the Config
+[10:49:18][TRACE] [Main                            ] Setting up HasteBin...
+[10:49:18][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:49:18][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:49:18][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:49:18][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:49:18][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:49:18][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:49:18][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:49:19][INFO ] [Main                            ] Up and running
+[10:49:19][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:49:32][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:49:51][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:50:25][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:53:19][TRACE] [Main                            ] Logger successfully setup
+[10:53:19][TRACE] [Main                            ] Setting up Config...
+[10:53:19][TRACE] [Main                            ] Successfully setup the Config
+[10:53:19][TRACE] [Main                            ] Setting up HasteBin...
+[10:53:19][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:53:19][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:53:19][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:53:19][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:53:19][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:53:19][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:53:19][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:53:20][INFO ] [Main                            ] Up and running
+[10:53:20][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:54:34][TRACE] [Main                            ] Logger successfully setup
+[10:54:34][TRACE] [Main                            ] Setting up Config...
+[10:54:34][TRACE] [Main                            ] Successfully setup the Config
+[10:54:34][TRACE] [Main                            ] Setting up HasteBin...
+[10:54:34][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:54:34][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:54:34][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:54:34][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:54:34][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:54:34][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:54:34][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:54:35][INFO ] [Main                            ] Up and running
+[10:54:35][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:54:55][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:55:18][TRACE] [Main                            ] Logger successfully setup
+[10:55:18][TRACE] [Main                            ] Setting up Config...
+[10:55:18][TRACE] [Main                            ] Successfully setup the Config
+[10:55:18][TRACE] [Main                            ] Setting up HasteBin...
+[10:55:18][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:55:18][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:55:18][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:55:18][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:55:18][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:55:18][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:55:18][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:55:19][INFO ] [Main                            ] Up and running
+[10:55:19][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:55:23][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:55:32][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:55:58][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:59:24][TRACE] [Main                            ] Logger successfully setup
+[10:59:24][TRACE] [Main                            ] Setting up Config...
+[10:59:24][TRACE] [Main                            ] Successfully setup the Config
+[10:59:24][TRACE] [Main                            ] Setting up HasteBin...
+[10:59:24][TRACE] [Main                            ] Successfully setup the HasteBin
+[10:59:24][TRACE] [EventHandler                    ] Setting up EventHandler...
+[10:59:24][DEBUG] [EventHandler                    ] Event loaded: ready
+[10:59:24][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[10:59:24][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[10:59:24][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[10:59:24][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[10:59:25][INFO ] [Main                            ] Up and running
+[10:59:25][INFO ] [Main                            ] Logged in as CyBot#9146
+[10:59:41][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[10:59:49][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:01:36][TRACE] [Main                            ] Logger successfully setup
+[11:01:36][TRACE] [Main                            ] Setting up Config...
+[11:01:36][TRACE] [Main                            ] Successfully setup the Config
+[11:01:36][TRACE] [Main                            ] Setting up HasteBin...
+[11:01:36][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:01:36][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:01:36][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:01:36][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:01:36][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:01:36][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:01:36][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:01:37][INFO ] [Main                            ] Up and running
+[11:01:37][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:05:03][TRACE] [Main                            ] Logger successfully setup
+[11:05:03][TRACE] [Main                            ] Setting up Config...
+[11:05:03][TRACE] [Main                            ] Successfully setup the Config
+[11:05:03][TRACE] [Main                            ] Setting up HasteBin...
+[11:05:03][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:05:03][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:05:03][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:05:03][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:05:03][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:05:03][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:05:03][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:05:04][INFO ] [Main                            ] Up and running
+[11:05:04][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:05:32][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:06:04][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:06:27][TRACE] [Main                            ] Logger successfully setup
+[11:06:27][TRACE] [Main                            ] Setting up Config...
+[11:06:27][TRACE] [Main                            ] Successfully setup the Config
+[11:06:27][TRACE] [Main                            ] Setting up HasteBin...
+[11:06:27][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:06:27][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:06:27][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:06:27][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:06:27][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:06:27][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:06:27][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:06:28][INFO ] [Main                            ] Up and running
+[11:06:28][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:06:47][TRACE] [Main                            ] Logger successfully setup
+[11:06:47][TRACE] [Main                            ] Setting up Config...
+[11:06:47][TRACE] [Main                            ] Successfully setup the Config
+[11:06:47][TRACE] [Main                            ] Setting up HasteBin...
+[11:06:47][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:06:47][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:06:47][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:06:47][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:06:47][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:06:47][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:06:47][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:06:47][INFO ] [Main                            ] Up and running
+[11:06:47][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:06:54][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:07:28][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:10:05][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:18:25][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:18:38][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:18:44][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:21:29][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:24:11][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:24:40][TRACE] [Main                            ] Logger successfully setup
+[11:24:40][TRACE] [Main                            ] Setting up Config...
+[11:24:40][TRACE] [Main                            ] Successfully setup the Config
+[11:24:40][TRACE] [Main                            ] Setting up HasteBin...
+[11:24:40][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:24:40][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:24:40][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:24:40][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:24:40][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modcheck - Check if the moderation module is activated.
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:24:40][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:24:40][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:24:41][INFO ] [Main                            ] Up and running
+[11:24:41][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:25:45][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:28:56][TRACE] [Main                            ] Logger successfully setup
+[11:28:56][TRACE] [Main                            ] Setting up Config...
+[11:28:56][TRACE] [Main                            ] Successfully setup the Config
+[11:28:56][TRACE] [Main                            ] Setting up HasteBin...
+[11:28:56][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:28:56][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:28:56][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:28:56][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:28:56][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:28:56][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:28:56][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:28:57][INFO ] [Main                            ] Up and running
+[11:28:57][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:29:27][TRACE] [Main                            ] Logger successfully setup
+[11:29:27][TRACE] [Main                            ] Setting up Config...
+[11:29:27][TRACE] [Main                            ] Successfully setup the Config
+[11:29:27][TRACE] [Main                            ] Setting up HasteBin...
+[11:29:27][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:29:27][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:29:27][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:29:27][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:29:27][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:29:28][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:29:28][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:29:28][INFO ] [Main                            ] Up and running
+[11:29:28][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:29:52][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:30:04][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:30:23][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[11:37:03][TRACE] [Main                            ] Logger successfully setup
+[11:37:03][TRACE] [Main                            ] Setting up Config...
+[11:37:03][TRACE] [Main                            ] Successfully setup the Config
+[11:37:03][TRACE] [Main                            ] Setting up HasteBin...
+[11:37:03][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:37:03][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:37:03][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:37:03][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:37:03][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:37:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:37:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:37:04][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:37:04][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:37:04][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:37:04][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:37:04][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:37:04][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:37:04][INFO ] [Main                            ] Up and running
+[11:37:04][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:47:39][TRACE] [Main                            ] Logger successfully setup
+[11:47:39][TRACE] [Main                            ] Setting up Config...
+[11:47:39][TRACE] [Main                            ] Successfully setup the Config
+[11:47:39][TRACE] [Main                            ] Setting up HasteBin...
+[11:47:39][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:47:39][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:47:39][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:47:39][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:47:39][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:47:39][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:47:39][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:47:40][INFO ] [Main                            ] Up and running
+[11:47:40][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:48:16][TRACE] [Main                            ] Logger successfully setup
+[11:48:16][TRACE] [Main                            ] Setting up Config...
+[11:48:16][TRACE] [Main                            ] Successfully setup the Config
+[11:48:16][TRACE] [Main                            ] Setting up HasteBin...
+[11:48:16][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:48:16][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:48:16][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:48:16][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:48:16][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:48:16][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:48:16][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:48:16][INFO ] [Main                            ] Up and running
+[11:48:16][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:50:43][TRACE] [Main                            ] Logger successfully setup
+[11:50:43][TRACE] [Main                            ] Setting up Config...
+[11:50:43][TRACE] [Main                            ] Successfully setup the Config
+[11:50:43][TRACE] [Main                            ] Setting up HasteBin...
+[11:50:43][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:50:43][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:50:43][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:50:43][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:50:43][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:50:43][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:50:43][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:50:44][INFO ] [Main                            ] Up and running
+[11:50:44][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:52:02][TRACE] [Main                            ] Logger successfully setup
+[11:52:02][TRACE] [Main                            ] Setting up Config...
+[11:52:02][TRACE] [Main                            ] Successfully setup the Config
+[11:52:02][TRACE] [Main                            ] Setting up HasteBin...
+[11:52:02][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:52:02][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:52:02][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:52:02][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:52:02][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:52:02][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:52:02][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:52:03][INFO ] [Main                            ] Up and running
+[11:52:03][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:52:22][TRACE] [Main                            ] Logger successfully setup
+[11:52:22][TRACE] [Main                            ] Setting up Config...
+[11:52:22][TRACE] [Main                            ] Successfully setup the Config
+[11:52:22][TRACE] [Main                            ] Setting up HasteBin...
+[11:52:22][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:52:22][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:52:22][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:52:22][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:52:22][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:52:22][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:52:22][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:52:23][INFO ] [Main                            ] Up and running
+[11:52:23][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:52:42][TRACE] [Main                            ] Logger successfully setup
+[11:52:42][TRACE] [Main                            ] Setting up Config...
+[11:52:42][TRACE] [Main                            ] Successfully setup the Config
+[11:52:42][TRACE] [Main                            ] Setting up HasteBin...
+[11:52:42][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:52:42][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:52:42][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:52:42][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:52:42][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:52:42][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:52:42][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:52:42][INFO ] [Main                            ] Up and running
+[11:52:42][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:52:56][TRACE] [Main                            ] Logger successfully setup
+[11:52:56][TRACE] [Main                            ] Setting up Config...
+[11:52:56][TRACE] [Main                            ] Successfully setup the Config
+[11:52:56][TRACE] [Main                            ] Setting up HasteBin...
+[11:52:56][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:52:56][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:52:56][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:52:56][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:52:56][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:52:56][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:52:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:52:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:52:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:52:57][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:52:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:52:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:52:57][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:52:57][INFO ] [Main                            ] Up and running
+[11:52:57][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:53:12][TRACE] [Main                            ] Logger successfully setup
+[11:53:12][TRACE] [Main                            ] Setting up Config...
+[11:53:12][TRACE] [Main                            ] Successfully setup the Config
+[11:53:12][TRACE] [Main                            ] Setting up HasteBin...
+[11:53:12][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:53:12][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:53:12][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:53:12][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:53:12][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:53:12][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:53:12][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:53:13][INFO ] [Main                            ] Up and running
+[11:53:13][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:53:39][TRACE] [Main                            ] Logger successfully setup
+[11:53:39][TRACE] [Main                            ] Setting up Config...
+[11:53:39][TRACE] [Main                            ] Successfully setup the Config
+[11:53:39][TRACE] [Main                            ] Setting up HasteBin...
+[11:53:39][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:53:39][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:53:39][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:53:39][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:53:39][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:53:39][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:53:39][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:53:39][INFO ] [Main                            ] Up and running
+[11:53:39][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:54:17][TRACE] [Main                            ] Logger successfully setup
+[11:54:17][TRACE] [Main                            ] Setting up Config...
+[11:54:17][TRACE] [Main                            ] Successfully setup the Config
+[11:54:17][TRACE] [Main                            ] Setting up HasteBin...
+[11:54:17][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:54:17][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:54:17][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:54:17][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:54:17][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:54:17][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:54:17][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:54:18][INFO ] [Main                            ] Up and running
+[11:54:18][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:57:14][TRACE] [Main                            ] Logger successfully setup
+[11:57:14][TRACE] [Main                            ] Setting up Config...
+[11:57:14][TRACE] [Main                            ] Successfully setup the Config
+[11:57:14][TRACE] [Main                            ] Setting up HasteBin...
+[11:57:14][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:57:14][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:57:14][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:57:14][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:57:14][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:57:14][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:57:14][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:57:15][INFO ] [Main                            ] Up and running
+[11:57:15][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:57:31][TRACE] [Main                            ] Logger successfully setup
+[11:57:31][TRACE] [Main                            ] Setting up Config...
+[11:57:31][TRACE] [Main                            ] Successfully setup the Config
+[11:57:31][TRACE] [Main                            ] Setting up HasteBin...
+[11:57:31][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:57:31][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:57:31][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:57:31][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:57:31][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:57:31][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:57:31][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:57:32][INFO ] [Main                            ] Up and running
+[11:57:32][INFO ] [Main                            ] Logged in as CyBot#9146
+[11:59:57][TRACE] [Main                            ] Logger successfully setup
+[11:59:57][TRACE] [Main                            ] Setting up Config...
+[11:59:57][TRACE] [Main                            ] Successfully setup the Config
+[11:59:57][TRACE] [Main                            ] Setting up HasteBin...
+[11:59:57][TRACE] [Main                            ] Successfully setup the HasteBin
+[11:59:57][TRACE] [EventHandler                    ] Setting up EventHandler...
+[11:59:57][DEBUG] [EventHandler                    ] Event loaded: ready
+[11:59:57][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[11:59:57][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[11:59:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[11:59:57][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[11:59:58][INFO ] [Main                            ] Up and running
+[11:59:58][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:01:03][TRACE] [Main                            ] Logger successfully setup
+[12:01:03][TRACE] [Main                            ] Setting up Config...
+[12:01:03][TRACE] [Main                            ] Successfully setup the Config
+[12:01:03][TRACE] [Main                            ] Setting up HasteBin...
+[12:01:03][TRACE] [Main                            ] Successfully setup the HasteBin
+[12:01:03][TRACE] [EventHandler                    ] Setting up EventHandler...
+[12:01:03][DEBUG] [EventHandler                    ] Event loaded: ready
+[12:01:03][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[12:01:03][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[12:01:03][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[12:01:03][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[12:01:04][INFO ] [Main                            ] Up and running
+[12:01:04][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:03:57][TRACE] [Main                            ] Logger successfully setup
+[12:03:57][TRACE] [Main                            ] Setting up Config...
+[12:03:57][TRACE] [Main                            ] Successfully setup the Config
+[12:03:57][TRACE] [Main                            ] Setting up HasteBin...
+[12:03:57][TRACE] [Main                            ] Successfully setup the HasteBin
+[12:03:57][TRACE] [EventHandler                    ] Setting up EventHandler...
+[12:03:57][DEBUG] [EventHandler                    ] Event loaded: ready
+[12:03:57][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[12:03:57][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[12:03:57][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[12:03:57][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[12:03:58][INFO ] [Main                            ] Up and running
+[12:03:58][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:06:21][TRACE] [Main                            ] Logger successfully setup
+[12:06:21][TRACE] [Main                            ] Setting up Config...
+[12:06:21][TRACE] [Main                            ] Successfully setup the Config
+[12:06:21][TRACE] [Main                            ] Setting up HasteBin...
+[12:06:21][TRACE] [Main                            ] Successfully setup the HasteBin
+[12:06:21][TRACE] [EventHandler                    ] Setting up EventHandler...
+[12:06:21][DEBUG] [EventHandler                    ] Event loaded: ready
+[12:06:21][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[12:06:21][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Moderation - Turn the moderation module on/off
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[12:06:21][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[12:06:21][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[12:06:22][INFO ] [Main                            ] Up and running
+[12:06:22][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:17:13][TRACE] [Main                            ] Logger successfully setup
+[12:17:13][TRACE] [Main                            ] Setting up Config...
+[12:17:13][TRACE] [Main                            ] Successfully setup the Config
+[12:17:13][TRACE] [Main                            ] Setting up HasteBin...
+[12:17:13][TRACE] [Main                            ] Successfully setup the HasteBin
+[12:17:13][TRACE] [EventHandler                    ] Setting up EventHandler...
+[12:17:13][DEBUG] [EventHandler                    ] Event loaded: ready
+[12:17:13][TRACE] [EventHandler                    ] Successfully setup the EventHandler
+[12:17:13][TRACE] [CommandHandler                  ] Setting up CommandHandler...
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Basic/Help - Shows this message
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Basic/Modules - Check what modules you have turned on
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Basic/Ping - Shows the latency of the bot
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Basic/Stats - Shows the stats of the client
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Moderation Module/Modmodule - Turn the moderation module on/off
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Secret/Eval - Evaluate inputted code
+[12:17:13][DEBUG] [CommandHandler                  ] Command loaded: Secret/Reload - Reload
+[12:17:13][TRACE] [CommandHandler                  ] Successfully setup the CommandHandler
+[12:17:13][INFO ] [Main                            ] Up and running
+[12:17:13][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:21:49][INFO ] [Main                            ] Up and running
+[12:21:49][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:34:32][INFO ] [Main                            ] Up and running
+[12:34:32][INFO ] [Main                            ] Logged in as CyBot#9146
+[12:43:18][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[12:43:28][INFO ] [CommandHandler                  ] Eval command used by: Cy Akihiro#0051 (390179632911089666)
+[13:17:23][INFO ] [Main                            ] Up and running
+[13:17:23][INFO ] [Main                            ] Logged in as CyBot#9146
+[13:40:21][INFO ] [Main                            ] Up and running
+[13:40:21][INFO ] [Main                            ] Logged in as CyBot#9146

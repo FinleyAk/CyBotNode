@@ -33,9 +33,14 @@ function main() {
         });
     })
 
-    var con = mysql.createConnection({
-        host: `${config.dbuser}`
-    })
+
+
+
+
+
+    // var con = mysql.createConnection({
+    //     host: `${config.dbuser}`
+    // })
 
 }
 
