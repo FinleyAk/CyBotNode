@@ -14,4 +14,4 @@ npm i --save [package]
 
 # Creators;
 
-* <b>Cy</b> [Cy Akihiro#0051]
+* <b>Kalum</b> Discord: [Yuki#222]
